@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+category,id
+food,cat1
+music,cat2
+technology,cat3
+theater,cat4
+film & video,cat5
+publishing,cat6
+games,cat7
+photography,cat8
+journalism,cat9
+=======
+category,id
+food,cat1
+music,cat2
+technology,cat3
+theater,cat4
+film & video,cat5
+publishing,cat6
+games,cat7
+photography,cat8
+journalism,cat9
+>>>>>>> 38eb04da306e4df802b658856b117523b417a828
